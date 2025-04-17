@@ -14,10 +14,12 @@ public class RegisterActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
 
+        // Récupération des composants
         EditText newUsername = findViewById(R.id.newUsername);
         EditText newPassword = findViewById(R.id.newPassword);
         Button registerButton = findViewById(R.id.buttonRegister);
 
+        // Gestion du clic sur le bouton "S'inscrire"
         registerButton.setOnClickListener(v -> {
             String username = newUsername.getText().toString();
             String password = newPassword.getText().toString();
