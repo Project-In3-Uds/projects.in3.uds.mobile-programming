@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home"
+        android:title="Accueil"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_fruits"
+        android:icon="@drawable/ic_fruits"
+        android:title="Fruits"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_legumes"
+        android:icon="@drawable/ic_legumes"
+        android:title="Légumes"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_autres"
+        android:icon="@drawable/ic_autres"
+        android:title="Autres"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_panier"
+        android:icon="@drawable/ic_cart"
+        android:title="Panier"
+        app:showAsAction="always" />
+
+</menu>
