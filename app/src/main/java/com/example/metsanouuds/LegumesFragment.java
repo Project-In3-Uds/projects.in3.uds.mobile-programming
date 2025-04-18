@@ -30,7 +30,7 @@ public class LegumesFragment extends Fragment {
 
         articleList = new ArrayList<>();
         articleList.add(new Article(R.drawable.ic_poirot, "Condiments Verts", "Poirot, Haricots verts", 1, 4));
-        articleList.add(new Article(R.drawable.ic_choux, "Choux Verts", "Legumes mange crus", 2, 5));
+        articleList.add(new Article(R.drawable.ic_choux1, "Choux Verts", "Legumes mange crus", 2, 5));
         adapter = new ArticleAdapter(getContext(), articleList);
         recyclerView.setAdapter(adapter);
 

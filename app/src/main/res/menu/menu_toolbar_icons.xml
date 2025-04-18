@@ -25,9 +25,10 @@
         app:showAsAction="always" />
 
     <item
-        android:id="@+id/action_panier"
+        android:id="@+id/action_cart"
         android:icon="@drawable/ic_cart"
         android:title="Panier"
-        app:showAsAction="always" />
+        app:showAsAction="always"
+        app:actionLayout="@layout/cart_action_view" />
 
 </menu>

@@ -26,10 +26,15 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
+            android:background="@android:color/white"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-            app:titleTextColor="@android:color/white"
-            app:menu="@menu/menu_toolbar_icons"/>
+            android:gravity="center_vertical"
+            android:paddingHorizontal="8dp"
+            app:title=""
+            app:contentInsetStart="0dp"
+            app:contentInsetLeft="0dp"
+            app:contentInsetStartWithNavigation="0dp"
+             app:menu="@menu/menu_toolbar_icons"/>
 
         <!-- Contenu des fragments -->
         <FrameLayout

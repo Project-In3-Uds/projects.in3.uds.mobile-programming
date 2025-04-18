@@ -62,6 +62,28 @@ import java.util.List;
              context.startActivity(intent);
          });
 
+         // Gestion du clic sur le bouton "Ajouter au panier"
+         holder.buttonAdd.setOnClickListener(v -> {
+             article.setQuantity(article.getQuantity() + 1);
+             holder.textViewQuantity.setText("Quantité : " + article.getQuantity());
+
+             MainActivity.cartCount++;
+             MainActivity.cartCountText.setText(String.valueOf(MainActivity.cartCount));
+         });
+
+         holder.buttonRemove.setOnClickListener(v -> {
+             if (article.getQuantity() > 0) {
+                 article.setQuantity(article.getQuantity() - 1);
+                 holder.textViewQuantity.setText("Quantité : " + article.getQuantity());
+
+                 if (MainActivity.cartCount > 0) {
+                     MainActivity.cartCount--;
+                     MainActivity.cartCountText.setText(String.valueOf(MainActivity.cartCount));
+                 }
+             }
+         });
+
+
      }
 
      @Override
