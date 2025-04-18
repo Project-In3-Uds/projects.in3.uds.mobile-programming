@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_andrezj_sacopski.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/andrezj_sacopski.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_autres1.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_autres1.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_fragment_autres.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/fragment_autres.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_activity_register.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_user.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_user.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_article_item.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/article_item.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/menu_menu_drawer.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/menu_menu_toolbar_icons.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/menu/menu_toolbar_icons.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_logout1.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_logout1.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_legumes.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_legumes.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_badge_background.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_choux.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_choux.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_home.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_home.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_nav_header.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_fragment_home.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_pomme.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/pomme.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_button_border.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/button_border.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_cart.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_cart.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_fruits.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_fruits.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/color_selector.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/color/selector.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_activity_article_detail.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/activity_article_detail.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_jrr_tolkien.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/jrr_tolkien.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_autres.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_autres.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_fragment_panier.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/fragment_panier.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_fragment_fruits.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/fragment_fruits.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_movies.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_movies.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_poirot.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_poirot.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.metsanouuds.app-debug-32:/drawable_ic_choux1.png.flat",
+        "source": "com.example.metsanouuds.app-main-34:/drawable/ic_choux1.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_banane.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/banane.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_cart_action_view.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/cart_action_view.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_user1.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_user1.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_home1.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_home1.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/drawable_ic_logout.png.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/drawable/ic_logout.png"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_fragment_legumes.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/fragment_legumes.xml"
+    },
+    {
+        "merged": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "/home/anderson237/.gradle/daemon/8.11.1/com.example.metsanouuds.app-main-34:/layout/activity_login.xml"
+    }
+]
